@@ -1,0 +1,4 @@
+# FactoryPattern
+# FactoryPatternExample
+# FactoryPatternExample
+# FactoryPatternExample
